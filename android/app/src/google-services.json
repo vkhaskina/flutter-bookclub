@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "547051366289",
+    "project_id": "book-club-97f43",
+    "storage_bucket": "book-club-97f43.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547051366289:android:03908eba18845f3178dc30",
+        "android_client_info": {
+          "package_name": "com.example.flutter_book_club"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDw2B4sUPYAqo_m9P1Nzw2BKSPejSTbfMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
